@@ -392,7 +392,7 @@ var jsTable = map[JSFeature]map[Engine][]int{
 		Safari:  {11, 1},
 	},
 	OptionalChain: {
-		Chrome:  {91},
+		Chrome:  {80},
 		Edge:    {80},
 		ES:      {2020},
 		Firefox: {74},
